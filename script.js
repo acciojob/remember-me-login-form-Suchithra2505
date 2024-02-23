@@ -3,7 +3,7 @@
 const loginForm = document.getElementById('loginForm');
 const usernameInput = document.getElementById('username');
 const passwordInput = document.getElementById('password');
-const rememberMeCheckbox = document.getElementById('rememberMe');
+const rememberMeCheckbox = document.getElementById('checkbox');
 const submitButton = document.getElementById('submit');
 const existingButton = document.getElementById('existing');
 
